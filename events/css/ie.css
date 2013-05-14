@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	border:0;
+}
+
+header, footer{
+background: transparent;
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC000000,endColorstr=#CC000000)"; /* IE8 */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC000000,endColorstr=#CC000000);   /* IE6 & 7 */
+      zoom: 1;
+}
+
+#content{
+
+background: transparent;
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC000000,endColorstr=#CC000000)"; /* IE8 */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC000000,endColorstr=#CC000000);   /* IE6 & 7 */
+      zoom: 1;
+}
+
+a img {
+border: 0;
+text-decoration: none;
+}
